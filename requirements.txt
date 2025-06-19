@@ -1,0 +1,6 @@
+Modules that need to be installed to run tis program correctly
+
+
+1. requests
+2. PyQt5
+3. python-dotenv
