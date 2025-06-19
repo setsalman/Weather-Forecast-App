@@ -84,12 +84,12 @@ class WeatherApp(QWidget):
             }
                            
             QLabel#temperature_label{
-                font-size: 75px;               
+                font-size: 70px;               
             }
                            
             QLabel#emoji_label{
                 font-size: 100px;
-                font-family: Segoe UI emoji;               
+                font-family: Calibri;               
             }
                            
             QLabel#description_label{
